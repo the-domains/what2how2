@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Life is good - Dine and Travel - Food, drinks and more. A food blog from Luxembourg and Ext. surroundings.]]></title>
+        <description><![CDATA[Life is good - Dine and Travel - Food, drinks and more. A food blog from Luxembourg and Ext. surroundings.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 11:07:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Søllerød Kro - Søllerød, Copenhagen, Denmark]]></title>
+            <description><![CDATA[<h1>Søllerød Kro - Søllerød, Copenhagen, Denmark</h1>]]></description>
+            <link>undefinedsollerod-kro-sollerod-copenhagen-denmark/index.html</link>
+            <guid isPermaLink="false">8b6b4adf-b211-43aa-bd0d-4ac087167beb</guid>
+            <pubDate>Sun, 13 Mar 2016 11:07:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
